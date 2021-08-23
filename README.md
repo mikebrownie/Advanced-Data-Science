@@ -5,15 +5,7 @@ Making the invisible visible, recovering insight and trends, and studying missin
 
 A field sitting between mathmatical statistic and computer science algorthims.
 
-*Practical goals: find valid, useful, understandable, and (possible) unexpected paterns and models.*
-
-## The Scientific Method
-
-1) Hypothesis
-2) Observations
-3) Analysis
-4) Conclusions
-5) Refinements
+*Practical goals: find valid, useful, understandable, and (possible) unexpected patterns and models.*
 
 ## Learning Goals
 
